@@ -1,4 +1,6 @@
-### Hi there 👋
+A passionate technologist, enthusiastic, motivated security professional, developer, and automation engineer with a proven track record in application security and software development in the Insurance IT industry.
+
+🔭 I’m currently working on Cyber Security SAST, DAST, SCA, and Security Automation.
 
 <!--
 **multipointer/multipointer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
